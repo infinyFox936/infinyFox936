@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on a simple project
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love programming (because I`m a begginer) :)
+- Interesed in Apple and Linux
 
 <!---
 infinyFox936/infinyFox936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
