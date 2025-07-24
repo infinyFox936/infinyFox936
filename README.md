@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a simple project
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love programming (because I`m a begginer) :)
-- 🍎 Interesed in Apple and Linux
+- 🍎 Interesed in Apple and Windows
 - 🟥🟩🟨🟦 Using Code::Blocks (that's why i maybe have some .cbp files in my last reops)
 
 <!---
