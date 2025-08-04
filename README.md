@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love programming (because I`m a begginer) :)
 - 🍎 Interesed in Apple and Windows
-- 🟥🟩🟨🟦 Using Code::Blocks (that's why i maybe have some .cbp files in my last reops)
+- 🟦 Using VS Code (please ignore my .vscode folders)
 
 <!---
 infinyFox936/infinyFox936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
