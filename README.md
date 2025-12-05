@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @infinyFox936
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on a simple project
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i love programming (because I`m a begginer) :)
-- 🍎 Interesed in Apple and Windows
-- 🟦 Using CodeBlocks (please ignore my .cbp files)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/infinyfox) 
 
-<!---
-infinyFox936/infinyFox936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=infinyFox936&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=infinyFox936&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=infinyFox936&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=infinyFox936&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
